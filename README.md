@@ -38,4 +38,4 @@ Tour Project(folder)
 
 ![](tour-places.gif)
 
-For look [please click here](...)
+For look [please click here](https://tour-places-react-ali.netlify.app/)
